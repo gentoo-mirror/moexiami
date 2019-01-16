@@ -1,4 +1,4 @@
-app-crypt/libscrypt 1.21: Shared library to impliment the scrypt algorithm
+app-crypt/libscrypt 1.21-r1: Shared library to impliment the scrypt algorithm
 app-emulation/open-vm-tools 10.2.5 10.2.5-r1: Opensourced tools for VMware guests
 net-proxy/shadowsocks-simple-obfs 0.0.5: A simple obfuscating tool designed as plugin server of shadowsocks
 net-proxy/v2ray 3.21: A platform for building proxies to bypass network restrictions
