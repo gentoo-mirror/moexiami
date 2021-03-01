@@ -1,5 +1,5 @@
+BDEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DEFINED_PHASES=install postinst postrm preinst prerm pretend unpack
-DEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DESCRIPTION=LINUX PERCCLI Utility For All Dell HBA/PERC Controllers
 EAPI=7
 HOMEPAGE=https://www.dell.com/support/home/us/en/19/drivers/driversdetails?driverId=NF8G9
@@ -9,5 +9,5 @@ LICENSE=Avago BSD
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://downloads.dell.com/FOLDER05235308M/1/perccli_linux_NF8G9_A07_7.529.00.tar.gz
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	mount-boot	1e82d96b7a7dcb483b412497a90bb646	rpm	f52cfa3a435468d86d3b49c357b9cb35
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	055c42df72f76a4f45ec92b35e83cd56	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	mount-boot	060ced4c5e0fd737db17cbb609bbf557	rpm	760ff223c2c4299b68ea901e24c4cabd	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=6f9adfc4fdd8c503884b416a640491a5
