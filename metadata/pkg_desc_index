@@ -1,5 +1,6 @@
 app-crypt/libscrypt 1.21-r1: Shared library to impliment the scrypt algorithm
 app-emulation/open-vm-tools 10.2.5 10.2.5-r1: Opensourced tools for VMware guests
+dev-python/pdfminer-six 20201018: Fork of PDFMiner using six for Python 2+3 compatibility
 net-proxy/shadowsocks-simple-obfs 0.0.5: A simple obfuscating tool designed as plugin server of shadowsocks
 net-proxy/v2ray 3.21: A platform for building proxies to bypass network restrictions
 net-vpn/strongswan 5.7.1-r1: IPsec-based VPN solution, supporting IKEv1/IKEv2 and MOBIKE
