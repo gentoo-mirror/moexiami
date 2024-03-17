@@ -2,6 +2,7 @@
 # your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using egencache *
 
+net-proxy/mihomo:gvisor - Build with gvisor tun stack
 net-vpn/strongswan:af-alg - (Crypto) Enable AF_ALG Linux crypto API interface, provides ciphers/hashers/hmac/xcbc
 net-vpn/strongswan:aikgen - Build AIK generator for TPM 1.2
 net-vpn/strongswan:botan - (Crypto) Enable crypto backend based on Botan, provides RSA/ECDSA/DH/ECDH/X25519/ciphers/hashers/HMAC/RNG
