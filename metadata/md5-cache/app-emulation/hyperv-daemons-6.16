@@ -1,0 +1,12 @@
+BDEPEND=virtual/pkgconfig virtual/pkgconfig
+DEFINED_PHASES=install prepare setup unpack
+DESCRIPTION=Userspace Linux Integration Services for guests of Hyper-V
+EAPI=8
+HOMEPAGE=https://www.kernel.org
+INHERIT=linux-info udev systemd
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.16.tar.xz
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	linux-info	efd923656513c879204fec6638eadee5	udev	f3d9a4376ebd22131726a68e1a0a058f	systemd	a964c0cbe818b5729da1dbfcee5be861
+_md5_=bdd5b3fcfc4047dd32db10dd9f524775
